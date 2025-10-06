@@ -4,6 +4,7 @@ For Week1:
 
 Please go into the file:
 cd 262
+
 cd Week1
 
 Then:
