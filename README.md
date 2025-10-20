@@ -11,7 +11,11 @@ javac Main.java
 java Main ../pride-and-prejudice.txt
 ```
 Week 2
-In the 262 directory, run:
+In the 262 directory:
+```bash
+cd 262
+```
+run:
 ```bash
 javac week2/Four.java
 java week2.Four
@@ -26,8 +30,11 @@ java week2.Six
 ```
 
 Week 3
-In the 262 directory, run:
-
+In the 262 directory:
+```bash
+cd 262
+```
+run:
 ```bash
 javac week3/Seven.java
 java week3.Seven
